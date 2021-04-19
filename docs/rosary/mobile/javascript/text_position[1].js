@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"The Holy Rosary for ",left:0.184346,top:0.105783,width:0.655700,height:0.060606},{word:"The Holy Rosary for ",left:0.181013,top:0.103207,width:0.655699,height:0.060606},{word:"Vocations ",left:0.342239,top:0.190934,width:0.339915,height:0.060606},{word:"Vocations ",left:0.338905,top:0.188359,width:0.339915,height:0.060606}]};
