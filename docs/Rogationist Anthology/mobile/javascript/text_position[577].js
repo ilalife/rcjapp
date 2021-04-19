@@ -1,0 +1,1 @@
+﻿positionForPages[577]={page:577,positions:[{word:"577 ",left:0.890327,top:0.497273,width:0.043378,height:0.018750},{word:"APPENDIX ",left:0.448115,top:0.388745,width:0.147019,height:0.020774}]};

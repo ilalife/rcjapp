@@ -1,0 +1,1 @@
+﻿positionForPages[2]={page:2,positions:[{word:"2 ",left:0.889575,top:0.488707,width:0.012304,height:0.013921},{word:"With the approbation of the Superior General  ",left:0.152980,top:0.729979,width:0.335533,height:0.015431},{word:"Fr. Pietro Cifuni R.C.J. ",left:0.152980,top:0.746040,width:0.171808,height:0.015430}]};
