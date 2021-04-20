@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Malayalam ",left:0.098157,top:0.441691,width:0.133326,height:0.041689},{word:"Kurishinte Vazhi - ",left:0.055824,top:0.495394,width:0.217825,height:0.041689},{word:"കുരിശി െന വഴി",left:0.066377,top:0.553276,width:0.189973,height:0.044400}]};
