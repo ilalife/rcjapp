@@ -1,0 +1,1 @@
+﻿positionForPages[2]={page:2,positions:[{word:"Send O Lord Holy Apostles Into Your Church",left:0.182353,top:0.611147,width:0.670418,height:0.028592}]};
