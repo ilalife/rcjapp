@@ -1,1 +1,0 @@
-﻿positionForPages[831]={page:831,positions:[{word:"831 ",left:0.889575,top:0.488707,width:0.028579,height:0.013921},{word:"Finito di stampare nel mese di luglio 1988  ",left:0.400474,top:0.859527,width:0.305278,height:0.013922},{word:"Litografia Cristo Re - 00067 Morlupo / Roma - telef. (06) 90 37 394 ",left:0.302974,top:0.875886,width:0.496160,height:0.013921}]};
